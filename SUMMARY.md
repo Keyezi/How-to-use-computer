@@ -1,4 +1,4 @@
 # Table of contents
 
-* [电脑入门](README.md)
+* [前言](README.md)
 
