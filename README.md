@@ -1,2 +1,6 @@
-# how-to-use-computers
-A guide to tell you how to use computer correct as a noob
+---
+description: 一本教你如何使用电脑的图书，提交以帮助我们。
+---
+
+# 电脑入门
+
